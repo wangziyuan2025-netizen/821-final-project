@@ -6,5 +6,13 @@
     "priority": "medium",
     "due_date": null,
     "created_at": "2026-04-22T09:23:04.266486"
+  },
+  {
+    "id": 2,
+    "title": "Test task",
+    "completed": false,
+    "priority": "medium",
+    "due_date": null,
+    "created_at": "2026-04-22T10:30:33.449528"
   }
 ]
